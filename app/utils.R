@@ -1,4 +1,4 @@
 
-ppp <- function(){
+ppp <<- function(){
   plot(cars)
 }
